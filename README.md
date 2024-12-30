@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-| Fronted developer<br>🚀| 20 y.o.<br>📚| Student majoring in Computer Science<br>
+💻| Fronted developer<br>🚀| 20 y.o.<br>📚| Student majoring in Computer Science<br>
 
 
 ## 🌐 Socials:
