@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="26200140" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/katana-rain-anime-regen-sword-gif-26200140">Katana Rain GIF</a>from <a href="https://tenor.com/search/katana-gifs">Katana GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'>
 </div>
 
 # 💫 About Me:
